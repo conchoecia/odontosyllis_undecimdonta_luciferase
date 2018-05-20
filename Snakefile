@@ -246,8 +246,11 @@ rule get_top_hits_tblastn:
     params:
         nucldb = "txomes/{taxon}_nucl"
     shell:
-        """blastdbcmd -db {params.nucldb} \
-        -entry $(cat {input.results} | cut -f2) > {output.best_hit}"""
+        """if [ -s {input.results} ]; \
+        then blastdbcmd -db {params.nucldb} \
+        -entry $(cat {input.results} | cut -f2 | head -1) > {output.best_hit} ;\
+        else touch {output.best_hit}; \
+        fi"""
 
 rule tblastn_top_to_nr:
     """uses blastx to see if the top nucl hit from the transcriptome matches
