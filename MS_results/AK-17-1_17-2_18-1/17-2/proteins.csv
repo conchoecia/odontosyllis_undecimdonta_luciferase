@@ -1,0 +1,176 @@
+Protein Group,Protein ID,Accession,-10lgP,Coverage (%),#Peptides,#Unique,PTM,Avg. Mass,Description
+1,38,odontosyllis_best|TRINITY_DN41904_c0_g1_i1,126.40,47,13,1,Carbamidomethylation; Oxidation (M); Deamidation (NQ),67611,odontosyllis_best|TRINITY_DN41904_c0_g1_i1
+7,8,odontosyllis_best|TRINITY_DN42466_c0_g1_i1,118.84,20,13,13,Carbamidomethylation; Deamidation (NQ),161876,odontosyllis_best|TRINITY_DN42466_c0_g1_i1
+4,44,odontosyllis_best|TRINITY_DN41904_c0_g1_i6,112.08,43,12,2,Carbamidomethylation; Oxidation (M); Deamidation (NQ),67487,odontosyllis_best|TRINITY_DN41904_c0_g1_i6
+5,1,odontosyllis_best|TRINITY_DN44444_c3_g1_i3,108.02,29,10,4,Oxidation (M); Deamidation (NQ),101648,odontosyllis_best|TRINITY_DN44444_c3_g1_i3
+14,86,odontosyllis_best|TRINITY_DN46258_c3_g2_i8,94.07,28,7,7,Carbamidomethylation,83094,odontosyllis_best|TRINITY_DN46258_c3_g2_i8
+6,4,odontosyllis_best|TRINITY_DN47012_c9_g1_i3,93.46,16,7,1,Oxidation (M); Deamidation (NQ),145695,odontosyllis_best|TRINITY_DN47012_c9_g1_i3
+6,3,odontosyllis_best|TRINITY_DN47012_c9_g1_i7,93.46,16,7,1,Oxidation (M); Deamidation (NQ),146915,odontosyllis_best|TRINITY_DN47012_c9_g1_i7
+16,2667,odontosyllis_best|TRINITY_DN37537_c0_g1_i2,87.95,9,5,5,,140459,odontosyllis_best|TRINITY_DN37537_c0_g1_i2
+8,42,odontosyllis_best|TRINITY_DN47034_c9_g1_i2,82.34,28,8,1,Carbamidomethylation; Deamidation (NQ),72781,odontosyllis_best|TRINITY_DN47034_c9_g1_i2
+8,43,odontosyllis_best|TRINITY_DN47034_c9_g1_i9,82.34,24,8,1,Carbamidomethylation; Deamidation (NQ),83024,odontosyllis_best|TRINITY_DN47034_c9_g1_i9
+10,141,odontosyllis_best|TRINITY_DN41904_c0_g1_i3,81.24,21,4,1,Carbamidomethylation; Oxidation (M),45715,odontosyllis_best|TRINITY_DN41904_c0_g1_i3
+22,52,odontosyllis_best|TRINITY_DN41547_c4_g1_i1,74.68,5,4,4,,226254,odontosyllis_best|TRINITY_DN41547_c4_g1_i1
+18,2668,odontosyllis_best|TRINITY_DN42647_c4_g1_i1,73.97,4,3,3,,215462,odontosyllis_best|TRINITY_DN42647_c4_g1_i1
+13,150,odontosyllis_best|TRINITY_DN39051_c0_g1_i1,72.23,11,5,5,Oxidation (M),160043,odontosyllis_best|TRINITY_DN39051_c0_g1_i1
+24,2675,odontosyllis_best|TRINITY_DN44350_c1_g1_i1,62.99,3,3,3,Carbamidomethylation,243785,odontosyllis_best|TRINITY_DN44350_c1_g1_i1
+20,2680,odontosyllis_best|TRINITY_DN46030_c1_g1_i1,60.52,5,2,2,Carbamidomethylation,144886,odontosyllis_best|TRINITY_DN46030_c1_g1_i1
+20,2681,odontosyllis_best|TRINITY_DN46030_c1_g1_i2,60.52,5,2,2,Carbamidomethylation,146013,odontosyllis_best|TRINITY_DN46030_c1_g1_i2
+23,2669,odontosyllis_best|TRINITY_DN41961_c8_g1_i10,57.58,6,4,4,Carbamidomethylation,184217,odontosyllis_best|TRINITY_DN41961_c8_g1_i10
+23,2670,odontosyllis_best|TRINITY_DN41961_c8_g1_i5,57.58,6,4,4,Carbamidomethylation,184047,odontosyllis_best|TRINITY_DN41961_c8_g1_i5
+23,1770,odontosyllis_best|TRINITY_DN41961_c8_g1_i1,57.58,6,4,4,Carbamidomethylation,184535,odontosyllis_best|TRINITY_DN41961_c8_g1_i1
+23,2671,odontosyllis_best|TRINITY_DN41961_c8_g1_i9,57.58,6,4,4,Carbamidomethylation,184705,odontosyllis_best|TRINITY_DN41961_c8_g1_i9
+23,2672,odontosyllis_best|TRINITY_DN41961_c8_g1_i12,57.58,6,4,4,Carbamidomethylation,185759,odontosyllis_best|TRINITY_DN41961_c8_g1_i12
+23,2673,odontosyllis_best|TRINITY_DN41961_c8_g1_i14,57.58,6,4,4,Carbamidomethylation,185929,odontosyllis_best|TRINITY_DN41961_c8_g1_i14
+19,2674,odontosyllis_best|TRINITY_DN43442_c2_g1_i1,56.47,6,3,3,,131231,odontosyllis_best|TRINITY_DN43442_c2_g1_i1
+15,2690,odontosyllis_best|TRINITY_DN42579_c3_g3_i1,55.34,18,3,2,Oxidation (M),36692,odontosyllis_best|TRINITY_DN42579_c3_g3_i1
+39,16,odontosyllis_best|TRINITY_DN43285_c4_g1_i2,55.16,4,2,2,,141151,odontosyllis_best|TRINITY_DN43285_c4_g1_i2
+39,12,odontosyllis_best|TRINITY_DN43285_c4_g1_i1,55.16,4,2,2,,165698,odontosyllis_best|TRINITY_DN43285_c4_g1_i1
+30,101,odontosyllis_best|TRINITY_DN45769_c8_g1_i1,54.09,2,1,1,,191550,odontosyllis_best|TRINITY_DN45769_c8_g1_i1
+30,102,odontosyllis_best|TRINITY_DN45769_c8_g1_i2,54.09,2,1,1,,191042,odontosyllis_best|TRINITY_DN45769_c8_g1_i2
+38,179,odontosyllis_best|TRINITY_DN44194_c3_g1_i4,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),385769,odontosyllis_best|TRINITY_DN44194_c3_g1_i4
+38,180,odontosyllis_best|TRINITY_DN44194_c3_g1_i5,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),387271,odontosyllis_best|TRINITY_DN44194_c3_g1_i5
+38,181,odontosyllis_best|TRINITY_DN44194_c3_g1_i9,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),387717,odontosyllis_best|TRINITY_DN44194_c3_g1_i9
+38,182,odontosyllis_best|TRINITY_DN44194_c3_g1_i10,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),389173,odontosyllis_best|TRINITY_DN44194_c3_g1_i10
+38,170,odontosyllis_best|TRINITY_DN44194_c3_g1_i11,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),443050,odontosyllis_best|TRINITY_DN44194_c3_g1_i11
+38,171,odontosyllis_best|TRINITY_DN44194_c3_g1_i7,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),444505,odontosyllis_best|TRINITY_DN44194_c3_g1_i7
+38,172,odontosyllis_best|TRINITY_DN44194_c3_g1_i3,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),444952,odontosyllis_best|TRINITY_DN44194_c3_g1_i3
+38,173,odontosyllis_best|TRINITY_DN44194_c3_g1_i12,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),446407,odontosyllis_best|TRINITY_DN44194_c3_g1_i12
+38,174,odontosyllis_best|TRINITY_DN44194_c3_g1_i1,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),446453,odontosyllis_best|TRINITY_DN44194_c3_g1_i1
+38,175,odontosyllis_best|TRINITY_DN44194_c3_g1_i6,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),447909,odontosyllis_best|TRINITY_DN44194_c3_g1_i6
+38,176,odontosyllis_best|TRINITY_DN44194_c3_g1_i8,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),448355,odontosyllis_best|TRINITY_DN44194_c3_g1_i8
+38,177,odontosyllis_best|TRINITY_DN44194_c3_g1_i13,53.81,1,2,2,Carbamidomethylation; Deamidation (NQ),449811,odontosyllis_best|TRINITY_DN44194_c3_g1_i13
+28,2682,odontosyllis_best|TRINITY_DN45608_c8_g2_i1,50.93,11,2,2,,67563,odontosyllis_best|TRINITY_DN45608_c8_g2_i1
+28,2683,odontosyllis_best|TRINITY_DN45608_c8_g2_i2,50.93,8,2,2,,92503,odontosyllis_best|TRINITY_DN45608_c8_g2_i2
+28,2684,odontosyllis_best|TRINITY_DN45608_c8_g2_i6,50.93,8,2,2,,92633,odontosyllis_best|TRINITY_DN45608_c8_g2_i6
+28,2685,odontosyllis_best|TRINITY_DN45608_c8_g2_i8,50.93,8,2,2,,92856,odontosyllis_best|TRINITY_DN45608_c8_g2_i8
+28,2686,odontosyllis_best|TRINITY_DN45608_c8_g2_i7,50.93,8,2,2,,92725,odontosyllis_best|TRINITY_DN45608_c8_g2_i7
+29,21,odontosyllis_best|TRINITY_DN36609_c0_g1_i1,50.30,4,2,2,,134454,odontosyllis_best|TRINITY_DN36609_c0_g1_i1
+32,35,odontosyllis_best|TRINITY_DN43505_c5_g1_i8,50.25,2,2,2,,248550,odontosyllis_best|TRINITY_DN43505_c5_g1_i8
+32,36,odontosyllis_best|TRINITY_DN43505_c5_g1_i3,50.25,2,2,2,,251992,odontosyllis_best|TRINITY_DN43505_c5_g1_i3
+17,2679,odontosyllis_best|TRINITY_DN43274_c3_g1_i1,49.38,9,3,3,Carbamidomethylation,123504,odontosyllis_best|TRINITY_DN43274_c3_g1_i1
+34,2689,odontosyllis_best|TRINITY_DN46504_c3_g1_i5,47.65,11,2,1,,49455,odontosyllis_best|TRINITY_DN46504_c3_g1_i5
+26,2691,odontosyllis_best|TRINITY_DN43160_c3_g1_i2,46.87,3,2,2,,216315,odontosyllis_best|TRINITY_DN43160_c3_g1_i2
+26,2692,odontosyllis_best|TRINITY_DN43160_c3_g1_i3,46.87,2,2,2,,270808,odontosyllis_best|TRINITY_DN43160_c3_g1_i3
+26,2693,odontosyllis_best|TRINITY_DN43160_c3_g1_i6,46.87,2,2,2,,303977,odontosyllis_best|TRINITY_DN43160_c3_g1_i6
+26,2694,odontosyllis_best|TRINITY_DN43160_c3_g1_i4,46.87,2,2,2,,303830,odontosyllis_best|TRINITY_DN43160_c3_g1_i4
+27,2696,odontosyllis_best|TRINITY_DN44651_c4_g1_i1,45.17,7,2,2,Carbamidomethylation; Deamidation (NQ),101948,odontosyllis_best|TRINITY_DN44651_c4_g1_i1
+35,2695,odontosyllis_best|TRINITY_DN39683_c0_g1_i1,44.00,5,2,2,,99997,odontosyllis_best|TRINITY_DN39683_c0_g1_i1
+46,229,odontosyllis_best|TRINITY_DN44022_c2_g5_i2,41.25,10,2,2,,62335,odontosyllis_best|TRINITY_DN44022_c2_g5_i2
+46,225,odontosyllis_best|TRINITY_DN46629_c1_g3_i2,41.25,15,2,2,,40623,odontosyllis_best|TRINITY_DN46629_c1_g3_i2
+46,226,odontosyllis_best|TRINITY_DN44022_c2_g5_i1,41.25,14,2,2,,44550,odontosyllis_best|TRINITY_DN44022_c2_g5_i1
+46,227,odontosyllis_best|TRINITY_DN44022_c2_g5_i3,41.25,14,2,2,,44560,odontosyllis_best|TRINITY_DN44022_c2_g5_i3
+46,189,odontosyllis_best|TRINITY_DN46629_c2_g5_i1,41.25,8,2,2,,74128,odontosyllis_best|TRINITY_DN46629_c2_g5_i1
+46,232,odontosyllis_best|TRINITY_DN42971_c3_g1_i3,41.25,8,2,2,,77644,odontosyllis_best|TRINITY_DN42971_c3_g1_i3
+55,2722,odontosyllis_best|TRINITY_DN45504_c3_g2_i2,40.63,2,1,1,,104062,odontosyllis_best|TRINITY_DN45504_c3_g2_i2
+37,2740,odontosyllis_best|TRINITY_DN41523_c6_g1_i1,39.66,1,1,1,,332291,odontosyllis_best|TRINITY_DN41523_c6_g1_i1
+52,2707,odontosyllis_best|TRINITY_DN45607_c3_g3_i1,39.09,7,2,1,,88487,odontosyllis_best|TRINITY_DN45607_c3_g3_i1
+47,2699,odontosyllis_best|TRINITY_DN42115_c4_g1_i15,38.45,3,2,2,Carbamidomethylation,195664,odontosyllis_best|TRINITY_DN42115_c4_g1_i15
+47,2700,odontosyllis_best|TRINITY_DN42115_c4_g1_i7,38.45,3,2,2,Carbamidomethylation,197457,odontosyllis_best|TRINITY_DN42115_c4_g1_i7
+47,2701,odontosyllis_best|TRINITY_DN42115_c4_g1_i14,38.45,3,2,2,Carbamidomethylation,197882,odontosyllis_best|TRINITY_DN42115_c4_g1_i14
+47,2702,odontosyllis_best|TRINITY_DN42115_c4_g1_i12,38.45,3,2,2,Carbamidomethylation,199998,odontosyllis_best|TRINITY_DN42115_c4_g1_i12
+47,2703,odontosyllis_best|TRINITY_DN42115_c4_g1_i3,38.45,3,2,2,Carbamidomethylation,201791,odontosyllis_best|TRINITY_DN42115_c4_g1_i3
+47,2704,odontosyllis_best|TRINITY_DN42115_c4_g1_i4,38.45,3,2,2,Carbamidomethylation,202216,odontosyllis_best|TRINITY_DN42115_c4_g1_i4
+47,2705,odontosyllis_best|TRINITY_DN42115_c4_g1_i1,38.45,3,2,2,Carbamidomethylation,204009,odontosyllis_best|TRINITY_DN42115_c4_g1_i1
+90,2721,odontosyllis_best|TRINITY_DN45476_c3_g2_i2,37.56,2,1,1,,146737,odontosyllis_best|TRINITY_DN45476_c3_g2_i2
+53,27,odontosyllis_best|TRINITY_DN44735_c5_g1_i1,37.24,3,2,2,,144154,odontosyllis_best|TRINITY_DN44735_c5_g1_i1
+53,28,odontosyllis_best|TRINITY_DN44735_c5_g1_i2,37.24,3,2,2,,156893,odontosyllis_best|TRINITY_DN44735_c5_g1_i2
+56,128,odontosyllis_best|TRINITY_DN42463_c6_g1_i1,37.14,1,1,1,,215438,odontosyllis_best|TRINITY_DN42463_c6_g1_i1
+42,2709,odontosyllis_best|TRINITY_DN45603_c5_g1_i2,36.71,3,2,2,,125672,odontosyllis_best|TRINITY_DN45603_c5_g1_i2
+42,2710,odontosyllis_best|TRINITY_DN45603_c5_g1_i6,36.71,3,2,2,,129261,odontosyllis_best|TRINITY_DN45603_c5_g1_i6
+42,2711,odontosyllis_best|TRINITY_DN45603_c5_g1_i5,36.71,3,2,2,,144632,odontosyllis_best|TRINITY_DN45603_c5_g1_i5
+69,2718,odontosyllis_best|TRINITY_DN45756_c6_g2_i1,36.01,7,1,1,,41928,odontosyllis_best|TRINITY_DN45756_c6_g2_i1
+69,2723,odontosyllis_best|TRINITY_DN45756_c6_g2_i3,36.01,8,1,1,,33112,odontosyllis_best|TRINITY_DN45756_c6_g2_i3
+48,2730,odontosyllis_best|TRINITY_DN44195_c2_g1_i3,35.99,3,2,2,,205194,odontosyllis_best|TRINITY_DN44195_c2_g1_i3
+36,2731,odontosyllis_best|TRINITY_DN46504_c3_g1_i4,35.60,6,2,1,,74035,odontosyllis_best|TRINITY_DN46504_c3_g1_i4
+57,244,odontosyllis_best|TRINITY_DN42571_c3_g1_i12,35.16,8,1,1,,30920,odontosyllis_best|TRINITY_DN42571_c3_g1_i12
+54,2719,odontosyllis_best|TRINITY_DN42935_c1_g1_i10,35.10,12,2,1,,41838,odontosyllis_best|TRINITY_DN42935_c1_g1_i10
+54,2720,odontosyllis_best|TRINITY_DN42935_c1_g1_i6,35.10,9,2,1,,53611,odontosyllis_best|TRINITY_DN42935_c1_g1_i6
+40,261,odontosyllis_best|TRINITY_DN39408_c0_g1_i1,34.91,3,1,1,,71964,odontosyllis_best|TRINITY_DN39408_c0_g1_i1
+59,144,odontosyllis_best|TRINITY_DN46194_c3_g1_i18,33.74,0,1,1,,739566,odontosyllis_best|TRINITY_DN46194_c3_g1_i18
+59,145,odontosyllis_best|TRINITY_DN46194_c3_g1_i3,33.74,0,1,1,,745531,odontosyllis_best|TRINITY_DN46194_c3_g1_i3
+59,146,odontosyllis_best|TRINITY_DN46194_c3_g1_i1,33.74,0,1,1,,745807,odontosyllis_best|TRINITY_DN46194_c3_g1_i1
+59,147,odontosyllis_best|TRINITY_DN46194_c3_g1_i6,33.74,0,1,1,,749412,odontosyllis_best|TRINITY_DN46194_c3_g1_i6
+59,148,odontosyllis_best|TRINITY_DN46194_c3_g1_i16,33.74,0,1,1,,756491,odontosyllis_best|TRINITY_DN46194_c3_g1_i16
+59,149,odontosyllis_best|TRINITY_DN46194_c3_g1_i2,33.74,0,1,1,,762732,odontosyllis_best|TRINITY_DN46194_c3_g1_i2
+68,2716,odontosyllis_best|TRINITY_DN45021_c6_g1_i6,33.39,1,1,1,,331522,odontosyllis_best|TRINITY_DN45021_c6_g1_i6
+68,2717,odontosyllis_best|TRINITY_DN45021_c6_g1_i8,33.39,1,1,1,,348257,odontosyllis_best|TRINITY_DN45021_c6_g1_i8
+68,2725,odontosyllis_best|TRINITY_DN61796_c0_g1_i1,33.39,11,1,1,,19050,odontosyllis_best|TRINITY_DN61796_c0_g1_i1
+58,2757,odontosyllis_best|TRINITY_DN46592_c4_g1_i6,33.23,2,1,1,,108044,odontosyllis_best|TRINITY_DN46592_c4_g1_i6
+43,2737,odontosyllis_best|TRINITY_DN45521_c2_g1_i2,33.01,4,2,2,Carbamidomethylation,120794,odontosyllis_best|TRINITY_DN45521_c2_g1_i2
+43,2738,odontosyllis_best|TRINITY_DN45521_c2_g1_i1,33.01,4,2,2,Carbamidomethylation,113097,odontosyllis_best|TRINITY_DN45521_c2_g1_i1
+50,2763,odontosyllis_best|TRINITY_DN42504_c3_g1_i12,32.08,2,1,1,,131952,odontosyllis_best|TRINITY_DN42504_c3_g1_i12
+50,2764,odontosyllis_best|TRINITY_DN42504_c3_g1_i15,32.08,2,1,1,,136748,odontosyllis_best|TRINITY_DN42504_c3_g1_i15
+50,2765,odontosyllis_best|TRINITY_DN42504_c3_g1_i13,32.08,1,1,1,,181523,odontosyllis_best|TRINITY_DN42504_c3_g1_i13
+50,2766,odontosyllis_best|TRINITY_DN42504_c3_g1_i17,32.08,1,1,1,,186319,odontosyllis_best|TRINITY_DN42504_c3_g1_i17
+50,2767,odontosyllis_best|TRINITY_DN42504_c3_g1_i10,32.08,1,1,1,,189388,odontosyllis_best|TRINITY_DN42504_c3_g1_i10
+50,2768,odontosyllis_best|TRINITY_DN42504_c3_g1_i3,32.08,1,1,1,,193754,odontosyllis_best|TRINITY_DN42504_c3_g1_i3
+50,2769,odontosyllis_best|TRINITY_DN42504_c3_g1_i5,32.08,1,1,1,,194184,odontosyllis_best|TRINITY_DN42504_c3_g1_i5
+50,2770,odontosyllis_best|TRINITY_DN42504_c3_g1_i7,32.08,1,1,1,,197739,odontosyllis_best|TRINITY_DN42504_c3_g1_i7
+50,2771,odontosyllis_best|TRINITY_DN42504_c3_g1_i16,32.08,1,1,1,,198549,odontosyllis_best|TRINITY_DN42504_c3_g1_i16
+50,2772,odontosyllis_best|TRINITY_DN42504_c3_g1_i8,32.08,1,1,1,,202534,odontosyllis_best|TRINITY_DN42504_c3_g1_i8
+50,2773,odontosyllis_best|TRINITY_DN42504_c3_g1_i9,32.08,1,1,1,,180170,odontosyllis_best|TRINITY_DN42504_c3_g1_i9
+49,245,odontosyllis_best|TRINITY_DN41824_c8_g1_i1,31.88,1,1,1,,295884,odontosyllis_best|TRINITY_DN41824_c8_g1_i1
+60,2758,odontosyllis_best|TRINITY_DN43602_c5_g1_i2,30.21,2,2,2,,193283,odontosyllis_best|TRINITY_DN43602_c5_g1_i2
+44,2759,odontosyllis_best|TRINITY_DN39443_c0_g1_i1,29.61,5,2,1,Carbamidomethylation,120042,odontosyllis_best|TRINITY_DN39443_c0_g1_i1
+61,2801,odontosyllis_best|TRINITY_DN45997_c2_g1_i1,28.91,1,1,1,,135998,odontosyllis_best|TRINITY_DN45997_c2_g1_i1
+61,2802,odontosyllis_best|TRINITY_DN45997_c2_g1_i2,28.91,1,1,1,,138743,odontosyllis_best|TRINITY_DN45997_c2_g1_i2
+51,278,odontosyllis_best|TRINITY_DN40064_c8_g2_i1,27.60,1,1,1,,265634,odontosyllis_best|TRINITY_DN40064_c8_g2_i1
+94,2753,odontosyllis_best|TRINITY_DN41256_c7_g2_i3,27.35,2,1,1,,84049,odontosyllis_best|TRINITY_DN41256_c7_g2_i3
+94,2754,odontosyllis_best|TRINITY_DN41256_c7_g2_i2,27.35,2,1,1,,116135,odontosyllis_best|TRINITY_DN41256_c7_g2_i2
+94,2755,odontosyllis_best|TRINITY_DN41256_c7_g2_i4,27.35,2,1,1,,116856,odontosyllis_best|TRINITY_DN41256_c7_g2_i4
+93,2746,odontosyllis_best|TRINITY_DN45467_c7_g1_i7,27.02,1,1,1,,246237,odontosyllis_best|TRINITY_DN45467_c7_g1_i7
+93,2747,odontosyllis_best|TRINITY_DN45467_c7_g1_i10,27.02,1,1,1,,250029,odontosyllis_best|TRINITY_DN45467_c7_g1_i10
+93,2748,odontosyllis_best|TRINITY_DN45467_c7_g1_i8,27.02,1,1,1,,252052,odontosyllis_best|TRINITY_DN45467_c7_g1_i8
+93,2750,odontosyllis_best|TRINITY_DN45467_c7_g1_i2,27.02,1,1,1,,266260,odontosyllis_best|TRINITY_DN45467_c7_g1_i2
+93,2751,odontosyllis_best|TRINITY_DN45467_c7_g1_i11,27.02,1,1,1,,295362,odontosyllis_best|TRINITY_DN45467_c7_g1_i11
+93,2752,odontosyllis_best|TRINITY_DN45467_c7_g1_i4,27.02,1,1,1,,297384,odontosyllis_best|TRINITY_DN45467_c7_g1_i4
+92,2744,odontosyllis_best|TRINITY_DN41019_c5_g1_i2,26.60,2,1,1,,111501,odontosyllis_best|TRINITY_DN41019_c5_g1_i2
+77,2742,odontosyllis_best|TRINITY_DN44007_c4_g1_i2,26.06,1,1,1,,223635,odontosyllis_best|TRINITY_DN44007_c4_g1_i2
+77,2749,odontosyllis_best|TRINITY_DN44007_c4_g1_i1,26.06,1,1,1,,166280,odontosyllis_best|TRINITY_DN44007_c4_g1_i1
+91,2743,odontosyllis_best|TRINITY_DN44663_c3_g1_i4,25.69,7,1,1,,51425,odontosyllis_best|TRINITY_DN44663_c3_g1_i4
+96,2775,odontosyllis_best|TRINITY_DN46125_c0_g1_i3,25.46,0,1,1,,486120,odontosyllis_best|TRINITY_DN46125_c0_g1_i3
+96,2791,odontosyllis_best|TRINITY_DN46125_c0_g1_i2,25.46,0,1,1,,571833,odontosyllis_best|TRINITY_DN46125_c0_g1_i2
+95,2760,odontosyllis_best|TRINITY_DN41666_c2_g1_i1,25.29,2,1,1,,83683,odontosyllis_best|TRINITY_DN41666_c2_g1_i1
+95,2761,odontosyllis_best|TRINITY_DN41666_c2_g1_i2,25.29,2,1,1,,97252,odontosyllis_best|TRINITY_DN41666_c2_g1_i2
+78,2762,odontosyllis_best|TRINITY_DN41459_c8_g2_i1,24.75,2,1,1,,156615,odontosyllis_best|TRINITY_DN41459_c8_g2_i1
+98,2781,odontosyllis_best|TRINITY_DN41085_c7_g1_i1,24.20,8,1,1,,23207,odontosyllis_best|TRINITY_DN41085_c7_g1_i1
+98,2790,odontosyllis_best|TRINITY_DN24389_c0_g1_i1,24.20,2,1,1,,77825,odontosyllis_best|TRINITY_DN24389_c0_g1_i1
+97,2780,odontosyllis_best|TRINITY_DN92067_c0_g1_i1,23.92,9,1,1,,23955,odontosyllis_best|TRINITY_DN92067_c0_g1_i1
+99,2782,odontosyllis_best|TRINITY_DN43791_c4_g2_i1,23.88,8,1,1,,21465,odontosyllis_best|TRINITY_DN43791_c4_g2_i1
+99,2783,odontosyllis_best|TRINITY_DN46399_c1_g1_i1,23.88,8,1,1,,20651,odontosyllis_best|TRINITY_DN46399_c1_g1_i1
+99,2784,odontosyllis_best|TRINITY_DN52960_c0_g1_i1,23.88,7,1,1,,25955,odontosyllis_best|TRINITY_DN52960_c0_g1_i1
+99,2785,odontosyllis_best|TRINITY_DN46346_c5_g1_i3,23.88,7,1,1,,26652,odontosyllis_best|TRINITY_DN46346_c5_g1_i3
+99,2786,odontosyllis_best|TRINITY_DN42393_c4_g1_i9,23.88,4,1,1,,39844,odontosyllis_best|TRINITY_DN42393_c4_g1_i9
+99,2787,odontosyllis_best|TRINITY_DN44257_c6_g3_i1,23.88,4,1,1,,44381,odontosyllis_best|TRINITY_DN44257_c6_g3_i1
+99,2788,odontosyllis_best|TRINITY_DN46346_c5_g6_i1,23.88,3,1,1,,57065,odontosyllis_best|TRINITY_DN46346_c5_g6_i1
+99,2789,odontosyllis_best|TRINITY_DN43516_c7_g1_i1,23.88,3,1,1,,57114,odontosyllis_best|TRINITY_DN43516_c7_g1_i1
+99,2792,odontosyllis_best|TRINITY_DN46156_c5_g1_i1,23.88,3,1,1,,65712,odontosyllis_best|TRINITY_DN46156_c5_g1_i1
+99,2799,odontosyllis_best|TRINITY_DN42146_c6_g1_i3,23.88,1,1,1,,183939,odontosyllis_best|TRINITY_DN42146_c6_g1_i3
+99,2804,odontosyllis_best|TRINITY_DN45339_c1_g1_i1,23.88,1,1,1,,230988,odontosyllis_best|TRINITY_DN45339_c1_g1_i1
+99,2805,odontosyllis_best|TRINITY_DN42146_c6_g1_i2,23.88,1,1,1,,235297,odontosyllis_best|TRINITY_DN42146_c6_g1_i2
+99,2806,odontosyllis_best|TRINITY_DN42146_c6_g1_i1,23.88,1,1,1,,236293,odontosyllis_best|TRINITY_DN42146_c6_g1_i1
+99,2807,odontosyllis_best|TRINITY_DN42056_c0_g1_i3,23.88,1,1,1,,267285,odontosyllis_best|TRINITY_DN42056_c0_g1_i3
+79,2776,odontosyllis_best|TRINITY_DN41904_c0_g1_i5,23.65,6,1,1,,30015,odontosyllis_best|TRINITY_DN41904_c0_g1_i5
+107,2840,odontosyllis_best|TRINITY_DN43769_c1_g1_i13,22.31,1,1,1,,262240,odontosyllis_best|TRINITY_DN43769_c1_g1_i13
+80,2793,odontosyllis_best|TRINITY_DN46696_c1_g2_i2,22.12,2,1,1,,94567,odontosyllis_best|TRINITY_DN46696_c1_g2_i2
+80,2794,odontosyllis_best|TRINITY_DN45952_c6_g2_i4,22.12,1,1,1,,156537,odontosyllis_best|TRINITY_DN45952_c6_g2_i4
+80,2795,odontosyllis_best|TRINITY_DN45952_c6_g2_i5,22.12,1,1,1,,214012,odontosyllis_best|TRINITY_DN45952_c6_g2_i5
+80,2796,odontosyllis_best|TRINITY_DN45952_c6_g2_i1,22.12,1,1,1,,214853,odontosyllis_best|TRINITY_DN45952_c6_g2_i1
+80,2798,odontosyllis_best|TRINITY_DN46696_c1_g2_i1,22.12,2,1,1,,90110,odontosyllis_best|TRINITY_DN46696_c1_g2_i1
+100,2800,odontosyllis_best|TRINITY_DN54202_c0_g1_i1,21.82,2,1,1,Carbamidomethylation,121556,odontosyllis_best|TRINITY_DN54202_c0_g1_i1
+101,2803,odontosyllis_best|TRINITY_DN26402_c0_g1_i1,21.50,3,1,1,,76825,odontosyllis_best|TRINITY_DN26402_c0_g1_i1
+70,539,odontosyllis_best|TRINITY_DN46709_c1_g1_i4,21.17,0,1,1,,1174401,odontosyllis_best|TRINITY_DN46709_c1_g1_i4
+70,540,odontosyllis_best|TRINITY_DN46709_c1_g1_i3,21.17,0,1,1,,1175916,odontosyllis_best|TRINITY_DN46709_c1_g1_i3
+102,2808,odontosyllis_best|TRINITY_DN46109_c4_g2_i23,20.90,4,1,1,Deamidation (NQ),50949,odontosyllis_best|TRINITY_DN46109_c4_g2_i23
+102,2809,odontosyllis_best|TRINITY_DN46109_c4_g2_i3,20.90,4,1,1,Deamidation (NQ),51151,odontosyllis_best|TRINITY_DN46109_c4_g2_i3
+102,2810,odontosyllis_best|TRINITY_DN46109_c4_g2_i11,20.90,4,1,1,Deamidation (NQ),51859,odontosyllis_best|TRINITY_DN46109_c4_g2_i11
+102,2813,odontosyllis_best|TRINITY_DN46109_c4_g2_i9,20.90,1,1,1,Deamidation (NQ),234110,odontosyllis_best|TRINITY_DN46109_c4_g2_i9
+102,2814,odontosyllis_best|TRINITY_DN46109_c4_g2_i1,20.90,1,1,1,Deamidation (NQ),234312,odontosyllis_best|TRINITY_DN46109_c4_g2_i1
+102,2815,odontosyllis_best|TRINITY_DN46109_c4_g2_i18,20.90,1,1,1,Deamidation (NQ),235020,odontosyllis_best|TRINITY_DN46109_c4_g2_i18
+103,2816,odontosyllis_best|TRINITY_DN46642_c1_g1_i1,20.45,8,1,1,,21541,odontosyllis_best|TRINITY_DN46642_c1_g1_i1
+104,2817,odontosyllis_best|TRINITY_DN89244_c0_g1_i1,20.28,8,1,1,,20669,odontosyllis_best|TRINITY_DN89244_c0_g1_i1
+104,2821,odontosyllis_best|TRINITY_DN31109_c0_g1_i1,20.28,2,1,1,,106319,odontosyllis_best|TRINITY_DN31109_c0_g1_i1
+81,2818,odontosyllis_best|TRINITY_DN40457_c4_g2_i1,20.06,2,1,1,,86850,odontosyllis_best|TRINITY_DN40457_c4_g2_i1
+81,2819,odontosyllis_best|TRINITY_DN41804_c4_g1_i1,20.06,3,1,1,,56030,odontosyllis_best|TRINITY_DN41804_c4_g1_i1
+81,2820,odontosyllis_best|TRINITY_DN7166_c0_g1_i1,20.06,2,1,1,,75780,odontosyllis_best|TRINITY_DN7166_c0_g1_i1

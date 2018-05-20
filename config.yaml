@@ -1,0 +1,65 @@
+samples:
+    OdonB:
+        genomic_f:"insert/your/path/here"
+        genomic_r:"insert/your/path/here"
+        10X_f:    "insert/your/path/here"
+        10X_r:    "insert/your/path/here"
+        rna_f:    "insert/your/path/here"
+        rna_r:    "insert/your/path/here"
+        long_rna: "insert/your/path/here"
+        txome:    "insert/your/path/here"
+species:
+    Cirratulus_cirratus:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/006/SRR5590966/SRR5590966_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/006/SRR5590966/SRR5590966_2.fastq.gz"
+    Cirratulus_spectabilis:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/001/SRR3574861/SRR3574861_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/001/SRR3574861/SRR3574861_2.fastq.gz"
+    Chaetopterus_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR164/003/SRR1646443/SRR1646443_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR164/003/SRR1646443/SRR1646443_2.fastq.gz"
+    Chaetopterus_variopedatus:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/007/SRR5590967/SRR5590967_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/007/SRR5590967/SRR5590967_2.fastq.gz"
+    Eunice_pennata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR204/009/SRR2040479/SRR2040479_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR204/009/SRR2040479/SRR2040479_2.fastq.gz"
+    Eunice_torquata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/005/SRR2005375/SRR2005375_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/005/SRR2005375/SRR2005375_2.fastq.gz"
+    Flabelligera_mundata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/003/SRR3574613/SRR3574613_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/003/SRR3574613/SRR3574613_2.fastq.gz"
+    Harmothoe_extenuata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/006/SRR1237766/SRR1237766_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/006/SRR1237766/SRR1237766_2.fastq.gz"
+    Harmothoe_imbricata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/004/SRR2005364/SRR2005364_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/004/SRR2005364/SRR2005364_2.fastq.gz"
+    Harmothoe_imbricata_scale:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR484/008/SRR4841788/SRR4841788_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR484/008/SRR4841788/SRR4841788_2.fastq.gz"
+    Macrochaeta_clavicornis:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1221445/SRR1221445_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1221445/SRR1221445_2.fastq.gz"
+    Mesochaetopterus_minutus:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1925760/SRR1925760_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1925760/SRR1925760_2.fastq.gz"
+    Pareurythoe_californica:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1926090/SRR1926090_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1926090/SRR1926090_2.fastq.gz"
+    Phyllochaetopterus_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR125/008/SRR1257898/SRR1257898_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR125/008/SRR1257898/SRR1257898_2.fastq.gz"
+    Phyllodoce_medipapillata:
+        rna_f:  "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR201/003/SRR2016923/SRR2016923_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR201/003/SRR2016923/SRR2016923_2.fastq.gz"
+    Syllis_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/004/SRR1224604/SRR1224604_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/004/SRR1224604/SRR1224604_2.fastq.gz"
+    Spiochaetopterus_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1224605/SRR1224605_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1224605/SRR1224605_2.fastq.gz"
+    Tomopteris_helgolandica:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/007/SRR1237767/SRR1237767_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/007/SRR1237767/SRR1237767_2.fastq.gz"

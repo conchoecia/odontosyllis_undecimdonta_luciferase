@@ -1,0 +1,136 @@
+samples:
+    OdonB:
+        genomic_f: "/bigdata/raw/genomic_reads/20170412_Project_SHDS_L1_H895P_Schultz/DS120_S5_L001_R1_001.fastq.gz"
+        genomic_r: "/bigdata/raw/genomic_reads/20170412_Project_SHDS_L1_H895P_Schultz/DS120_S5_L001_R2_001.fastq.gz"
+        10X_f: "/bigdata/raw/genomic_reads/10X/odon_fastq/odon/odon_S1_L004_R1_001.fastq.gz"
+        10X_r: "/bigdata/raw/genomic_reads/10X/odon_fastq/odon/odon_S1_L004_R2_001.fastq.gz"
+        rna_f: "/bigdata/raw/rna_reads/20170412_Project_SHDS_L1_H895P_Schultz/DS116_S1_L001_R1_001.fastq.gz"
+        rna_r: "/bigdata/raw/rna_reads/20170412_Project_SHDS_L1_H895P_Schultz/DS116_S1_L001_R2_001.fastq.gz"
+        long_rna: "/bigdata/raw/genomic_reads/ONT/basecalled_1.1.1/DSMN16_OdonB6_cDNA_2D_1.1.1bcd/odon_typefwd.fastq"
+        txome: "/bigdata/ncbi/db/re_odontosyllis_best.fasta"
+species:
+    Cirratulus_cirratus:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/006/SRR5590966/SRR5590966_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/006/SRR5590966/SRR5590966_2.fastq.gz"
+    Cirratulus_spectabilis:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/001/SRR3574861/SRR3574861_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/001/SRR3574861/SRR3574861_2.fastq.gz"
+    Chaetopterus_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR164/003/SRR1646443/SRR1646443_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR164/003/SRR1646443/SRR1646443_2.fastq.gz"
+    Chaetopterus_variopedatus:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/007/SRR5590967/SRR5590967_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/007/SRR5590967/SRR5590967_2.fastq.gz"
+    Eunice_pennata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR204/009/SRR2040479/SRR2040479_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR204/009/SRR2040479/SRR2040479_2.fastq.gz"
+    Eunice_torquata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/005/SRR2005375/SRR2005375_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/005/SRR2005375/SRR2005375_2.fastq.gz"
+    Flabelligera_mundata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/003/SRR3574613/SRR3574613_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR357/003/SRR3574613/SRR3574613_2.fastq.gz"
+    Harmothoe_extenuata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/006/SRR1237766/SRR1237766_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/006/SRR1237766/SRR1237766_2.fastq.gz"
+    Harmothoe_imbricata:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/004/SRR2005364/SRR2005364_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR200/004/SRR2005364/SRR2005364_2.fastq.gz"
+    Harmothoe_imbricata_scale:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR484/008/SRR4841788/SRR4841788_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR484/008/SRR4841788/SRR4841788_2.fastq.gz"
+    Macrochaeta_clavicornis:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1221445/SRR1221445_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1221445/SRR1221445_2.fastq.gz"
+    Mesochaetopterus_minutus:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1925760/SRR1925760_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1925760/SRR1925760_2.fastq.gz"
+    Pareurythoe_californica:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1926090/SRR1926090_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR192/000/SRR1926090/SRR1926090_2.fastq.gz"
+    Phyllochaetopterus_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR125/008/SRR1257898/SRR1257898_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR125/008/SRR1257898/SRR1257898_2.fastq.gz"
+    Phyllodoce_medipapillata:
+        rna_f:  "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR201/003/SRR2016923/SRR2016923_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR201/003/SRR2016923/SRR2016923_2.fastq.gz"
+    Syllis_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/004/SRR1224604/SRR1224604_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/004/SRR1224604/SRR1224604_2.fastq.gz"
+    Spiochaetopterus_sp:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1224605/SRR1224605_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR122/005/SRR1224605/SRR1224605_2.fastq.gz"
+    Tomopteris_helgolandica:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/007/SRR1237767/SRR1237767_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR123/007/SRR1237767/SRR1237767_2.fastq.gz"
+    #SRR5924303:
+    #    rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR592/003/SRR5924303/SRR5924303_1.fastq.gz"
+    #    rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR592/003/SRR5924303/SRR5924303_2.fastq.gz"
+    Hypania_invalida:
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/001/SRR5590961/SRR5590961_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/001/SRR5590961/SRR5590961_2.fastq.gz"
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848077[accn]"
+    Lanice_conchilega:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848076[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/002/SRR5590962/SRR5590962_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/002/SRR5590962/SRR5590962_2.fastq.gz"
+    Phascolosoma_granulatum:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848075[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/003/SRR5590963/SRR5590963_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/003/SRR5590963/SRR5590963_2.fastq.gz"
+    Psammodrilus_aedificator:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848074[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/004/SRR5590964/SRR5590964_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/004/SRR5590964/SRR5590964_2.fastq.gz"
+    Apistobranchus_tullbergi:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848073[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/005/SRR5590965/SRR5590965_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/005/SRR5590965/SRR5590965_2.fastq.gz"
+    Myriochele_heeri:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848070[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/008/SRR5590968/SRR5590968_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/008/SRR5590968/SRR5590968_2.fastq.gz"
+    Scoloplos_armiger:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848069[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/009/SRR5590969/SRR5590969_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/009/SRR5590969/SRR5590969_2.fastq.gz"
+    Scalibregma_inflatum:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848068[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/000/SRR5590970/SRR5590970_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/000/SRR5590970/SRR5590970_2.fastq.gz"
+    Psammodrilus_balanoglossoides:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2848067[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/001/SRR5590971/SRR5590971_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR559/001/SRR5590971/SRR5590971_2.fastq.gz"
+    Lepidonotopodium_sp:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2242234[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR441/003/SRR4419843/SRR4419843_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR441/003/SRR4419843/SRR4419843_2.fastq.gz"
+    Branchipolynoe_pettiboneae:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2242233[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR441/002/SRR4419842/SRR4419842_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR441/002/SRR4419842/SRR4419842_2.fastq.gz"
+    Maoridrilus_wilkini:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2649509[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/004/SRR5353284/SRR5353284_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/004/SRR5353284/SRR5353284_2.fastq.gz"
+    Parachilota_sp:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2649508[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/003/SRR5353283/SRR5353283_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/003/SRR5353283/SRR5353283_2.fastq.gz"
+    Criodrilus_laccuum:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2649501[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/006/SRR5353276/SRR5353276_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/006/SRR5353276/SRR5353276_2.fastq.gz"
+    Pontodrilus_litoralis:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2649481[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/006/SRR5353256/SRR5353256_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/006/SRR5353256/SRR5353256_2.fastq.gz"
+    Lumbriculus_variegatus:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2649483[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/008/SRR5353258/SRR5353258_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/008/SRR5353258/SRR5353258_2.fastq.gz"
+    Eisenia_andrei:
+        website: "https://www.ncbi.nlm.nih.gov/sra/SRX2649484[accn]"
+        rna_f: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/009/SRR5353259/SRR5353259_1.fastq.gz"
+        rna_r: "ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR535/009/SRR5353259/SRR5353259_2.fastq.gz"

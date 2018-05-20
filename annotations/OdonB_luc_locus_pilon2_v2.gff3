@@ -1,0 +1,37 @@
+##gff-version 3
+##source-version geneious 9.0.2
+OdonB_luc_locus_pilon2	Geneious	gene	1	4809	.	+	.	ID=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	1	87	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	341	559	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	830	891	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	1818	1983	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	2780	2950	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	3696	3774	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	4212	4328	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	CDS	4721	4809	.	+	.	Parent=c9g1i6
+OdonB_luc_locus_pilon2	Geneious	gene	1	4809	.	+	.	ID=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	1	87	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	341	559	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	830	891	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	1818	1983	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	2780	2950	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	3696	3774	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	4212	4328	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	CDS	4721	4809	.	+	.	Parent=c9g1i2
+OdonB_luc_locus_pilon2	Geneious	gene	1	4809	.	+	.	ID=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	1	87	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	341	559	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	830	891	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	1818	1983	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	2780	2950	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	3696	3774	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	4212	4328	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	CDS	4721	4809	.	+	.	Parent=c9g1i3
+OdonB_luc_locus_pilon2	Geneious	gene	524	4809	.	+	.	ID=c9g1i5
+OdonB_luc_locus_pilon2	Geneious	CDS	524	559	.	+	.	Parent=c9g1i5
+OdonB_luc_locus_pilon2	Geneious	CDS	830	891	.	+	.	Parent=c9g1i5
+OdonB_luc_locus_pilon2	Geneious	CDS	1818	1983	.	+	.	Parent=c9g1i5
+OdonB_luc_locus_pilon2	Geneious	CDS	2780	2950	.	+	.	Parent=c9g1i5
+OdonB_luc_locus_pilon2	Geneious	CDS	3696	3774	.	+	.	Parent=c9g1i5
+OdonB_luc_locus_pilon2	Geneious	CDS	4212	4328	.	+	.	Parent=c9g1i5
+OdonB_luc_locus_pilon2	Geneious	CDS	4721	4809	.	+	.	Parent=c9g1i5

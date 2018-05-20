@@ -1,0 +1,10 @@
+##gff-version 3
+##source-version geneious 9.0.2
+DN46871_c9g1i6	Geneious	gene	31	1020	.	+	.	ID=c9g1i6
+DN46871_c9g1i6	Geneious	CDS	31	1020	.	+	.	Parent=c9g1i6
+DN46871_c9g1i6	Geneious	gene	31	1020	.	+	.	ID=c9g1i2
+DN46871_c9g1i6	Geneious	CDS	31	1020	.	+	.	Parent=c9g1i2
+DN46871_c9g1i6	Geneious	gene	31	1020	.	+	.	ID=c9g1i3
+DN46871_c9g1i6	Geneious	CDS	31	1020	.	+	.	Parent=c9g1i3
+DN46871_c9g1i6	Geneious	gene	310	1020	.	+	.	ID=c9g1i5
+DN46871_c9g1i6	Geneious	CDS	310	1020	.	+	.	Parent=c9g1i5
