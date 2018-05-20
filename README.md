@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/134107589.svg)](https://zenodo.org/badge/latestdoi/134107589)
 # _Odontosyllis undecimdonta_ luciferase
 
 This repository contains analyses required to recreate the analyses found in Schultz, Kotlobay, et al. 2018
