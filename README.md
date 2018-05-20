@@ -14,7 +14,7 @@ polychaetes.
 ## Requirements:
 
 This is a reproducible pipeline assuming that all of the required
-software and sequencing reads are on your file.
+software and sequencing reads are on your file system.
 
 Required software:
 - [Python 3.x - I recommend Anaconda](https://docs.anaconda.com/anaconda/install/)
