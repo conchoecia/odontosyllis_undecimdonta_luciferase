@@ -1,0 +1,36 @@
+Rank   :1 Template name:1vt4I3
+REMARK :Column 1 -  30 present Atom & Residue records of query sequence.
+REMARK :Column 31 - 54 present XYZ coordinates of query sequence obtained after threading alignment.
+REMARK :Column 55 - 59 present residue number in Template
+REMARK :Column 60 - 59 present residue name of Template
+ATOM   1001  CA  MET   108      13.556 -59.493 -70.777    4 LEU
+ATOM   1002  CA  GLU   109      14.849 -60.791 -74.070    5 HIS
+ATOM   1003  CA  ARG   110      18.162 -59.081 -73.619    6 ARG
+ATOM   1004  CA  SER   111      18.376 -60.195 -70.038    7 SER
+ATOM   1005  CA  VAL   112      17.638 -63.786 -70.879    8 ILE
+ATOM   1006  CA  GLU   113      20.154 -63.663 -73.661    9 VAL
+ATOM   1007  CA  ASP   114      22.705 -62.377 -71.209   10 ASP
+ATOM   1008  CA  TRP   115      22.216 -65.507 -69.173   11 HIS
+ATOM   1009  CA  VAL   116      22.969 -67.654 -72.158   12 TYR
+ATOM   1010  CA  ASN   117      26.091 -65.661 -72.735   13 ASN
+ATOM   1011  CA  ALA   118      27.267 -66.056 -69.195   14 ILE
+ATOM   1012  CA  ARG   119      27.528 -69.825 -69.261   15 PRO
+ATOM   1013  CA  ARG   127      28.796 -69.595 -72.780   16 LYS
+ATOM   1014  CA  THR   128      31.750 -67.653 -71.499   17 THR
+ATOM   1015  CA  ASP   129      32.216 -70.048 -68.646   18 PHE
+ATOM   1016  CA  ARG   130      33.937 -72.954 -70.239   19 ASP
+ATOM   1017  CA  SER   131      36.521 -75.486 -69.263   20 SER
+ATOM   1018  CA  LEU   132      38.127 -77.902 -71.659   21 ASP
+ATOM   1019  CA  GLU   133      36.347 -80.780 -70.132   22 ASP
+ATOM   1020  CA  LEU   134      32.841 -81.232 -68.818   23 LEU
+ATOM   1021  CA  ALA   135      33.303 -79.574 -65.442   24 ILE
+ATOM   1022  CA  PRO   136      31.877 -76.160 -64.896   25 PRO
+ATOM   1023  CA  GLU   137      33.355 -73.350 -62.892   26 PRO
+ATOM   1024  CA  GLU   138      29.997 -72.981 -61.051   27 TYR
+ATOM   1025  CA  TYR   139      29.995 -70.637 -58.104   28 LEU
+ATOM   1026  CA  ALA   140      28.107 -70.914 -54.855   29 ASP
+ATOM   1027  CA  THR   141      24.625 -72.221 -55.520   30 GLN
+ATOM   1028  CA  TYR   142      23.025 -69.818 -57.979   31 TYR
+ATOM   1029  CA  PHE   143      24.322 -71.370 -61.071   32 PHE
+ATOM   1030  CA  CYS   144      23.408 -74.846 -60.029   33 TYR
+TER

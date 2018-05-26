@@ -9,7 +9,7 @@ polychaetes.
 
 ## Figure 2
 
-[add figure 2 here]
+![figure 2](figures/figure2.png)
 
 ## Requirements:
 
